@@ -9,7 +9,7 @@ public class Percolation {
 
     }
 
-    // is the site (row, col) open?
+    // is the site (row, col) open
     public boolean isOpen(int row, int col) {
         return true;
     }
